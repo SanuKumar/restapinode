@@ -38,3 +38,4 @@ const queryEntities = (tableName, query) => {
 };
 
 exports.insertEntity = insertEntity;
+exports.queryEntities = queryEntities;
